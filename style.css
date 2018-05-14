@@ -1,3 +1,20 @@
+body {
+	padding: 40px 40px 40px 40px;
+	border:20px solid black;
+	margin:48px 0px 48px 0px;
+	height: 100%;
+	width: 100%;
+	overflow-x: hidden;
+	overflow-y:auto;
+  
+  h1 {
+  border-bottom: 1px solid #CCCCCC;
+  margin: 10px 0 15px 0;
+  font-size:30px;
+  font-family: 'Times New Roman', Cambria;
+    text-align: center;
+
+
 P {
-  color: red;
+  color: black;
 }
