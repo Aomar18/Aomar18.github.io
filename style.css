@@ -6,16 +6,30 @@ body {
 	width: 100%;
 	overflow-x: hidden;
 	overflow-y:auto;
+	background-image: url(ahmedbackground.png);
 }
-	
-  h2 {
+h1, h2 {
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+}
+h2 {
   border-bottom: 1px solid #CCCCCC;
   margin: 10px 0 15px 0;
-  font-size:30px;
-  font-family: 'Times New Roman', Cambria;
-    text-align: center;
-	}
+  font-size: 30px;
+	font-style: italic;
+}
+h3 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 20px;
+}
 
-P {
+p {
   color: black;
+}
+
+#intro{
+	text-align: left;
+}
+.degree, .experience{
+	font-style: italic;
 }
